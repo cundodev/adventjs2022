@@ -7,6 +7,6 @@
 
 # Retos
 
-| Nº  | Título                                      | Dificultad | Solución   |
-| --- | ------------------------------------------- | ---------- | ---------- |
-| 1   | ¡Automatizando envolver regalos de navidad! | Fácil      | [Enlace]() |
+| Nº  | Título                                      | Dificultad | Solución                                                                |
+| --- | ------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
+| 1   | ¡Automatizando envolver regalos de navidad! | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-01) |
