@@ -7,7 +7,8 @@
 
 # Retos
 
-| Nº  | Título                                      | Dificultad | Solución                                                                |
-| --- | ------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
-| 1   | ¡Automatizando envolver regalos de navidad! | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-01) |
-| 2   | Nadie quiere hacer horas extra              | Fácil      | [Enlace]()                                                              |
+| Nº  | Título                                            | Dificultad | Solución                                                                |
+| --- | ------------------------------------------------- | ---------- | ----------------------------------------------------------------------- |
+| 01  | ¡Automatizando envolver regalos de navidad!       | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-01) |
+| 02  | Nadie quiere hacer horas extra                    | Fácil      | [Enlace]()                                                              |
+| 03  | ¿Cuántas cajas de regalos puede llevar Papá Noel? | Fácil      | [Enlace]()                                                              |
