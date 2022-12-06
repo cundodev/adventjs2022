@@ -14,3 +14,4 @@
 | 03  | ¿Cuántas cajas de regalos puede llevar Papá Noel? | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-03) |
 | 04  | Una caja dentro de otra caja y otra...            | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-04) |
 | 05  | Optimizando viajes de Santa                       | Difícil    | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-05) |
+| 06  | Creando adornos navideños                         | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-06) |
