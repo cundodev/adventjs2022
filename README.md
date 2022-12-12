@@ -20,3 +20,4 @@
 | 09  | Las locas luces de Navidad                        | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-09) |
 | 10  | El salto del trineo de Papá Noel                  | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-10) |
 | 11  | Papá Noel es Scrum Master                         | Difícil    | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-11) |
+| 12  | Trineos eléctricos, ¡guau!                        | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-12) |
