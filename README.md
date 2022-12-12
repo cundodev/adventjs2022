@@ -18,3 +18,4 @@
 | 07  | Haciendo inventario de regalos                    | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-07) |
 | 08  | ¡Necesitamos un mecánico!                         | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-08) |
 | 09  | Las locas luces de Navidad                        | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-09) |
+| 10  | El salto del trineo de Papá Noel                  | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-09) |
