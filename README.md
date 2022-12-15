@@ -23,3 +23,4 @@
 | 12  | Trineos eléctricos, ¡guau!                        | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-12) |
 | 13  | Backup de los archivos de Papá Noel               | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-13) |
 | 14  | El mejor camino                                   | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-14) |
+| 15  | Decorando el árbol de Navidad                     | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-15) |
