@@ -24,3 +24,4 @@
 | 13  | Backup de los archivos de Papá Noel               | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-13) |
 | 14  | El mejor camino                                   | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-14) |
 | 15  | Decorando el árbol de Navidad                     | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-15) |
+| 16  | Arreglando las cartas de Papá Noel                | Difícil    | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-16) |
