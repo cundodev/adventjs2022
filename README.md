@@ -27,3 +27,4 @@
 | 16  | Arreglando las cartas de Papá Noel                | Difícil    | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-16) |
 | 17  | Llevando los regalos en sacos                     | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-17) |
 | 18  | ¡Nos quedamos sin tinta!                          | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-18) |
+| 19  | Ordenando los regalos                             | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-19) |
