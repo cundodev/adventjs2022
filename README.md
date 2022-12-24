@@ -32,3 +32,4 @@
 | 21  | Creando la tabla de regalos                       | Medio      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-21) |
 | 22  | La iluminación en sintonía                        | Fácil      | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-22) |
 | 23  | Compilador de Papá Noel                           | Difícil    | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-23) |
+| 24  | El último reto es un laberinto                    | Difícil    | [Enlace](https://github.com/facindito/adventjs2022/tree/master/reto-24) |
